@@ -56,7 +56,7 @@ Currently learning and growing every day on my journey to become a **Full Stack 
 
 🌍 **Portfolio:** [https://nabihapersonalportfolio.netlify.app/]              
 
-💼 **LinkedIn:** [www.linkedin.com/in/syeda-nabiha-fatima-703649384] *(optional)*  
+💼 **LinkedIn:** [www.linkedin.com/in/syeda-nabiha-fatima-703649384]   
 
 ---
 
