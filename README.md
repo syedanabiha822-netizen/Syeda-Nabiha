@@ -33,7 +33,7 @@ Currently learning and growing every day on my journey to become a **Full Stack 
 ## 📂 Featured Work  
 
 🌐 **Portfolio Website:**  
-[👉 View Live on Netlify](nabihapersonalportfolio.netlify.app)  
+[👉 View Live on Netlify](https://nabihapersonalportfolio.netlify.app/)  
 
 🧠 **Projects:**  
 - 📝 Student Registration Form  
@@ -53,7 +53,7 @@ Currently learning and growing every day on my journey to become a **Full Stack 
 ## 💬 Let's Connect  
 
 📫 **Email:** syedanabiha822@gmail.com
-🌍 **Portfolio:** [nabihapersonalportfolio.netlify.app]
+🌍 **Portfolio:** [https://nabihapersonalportfolio.netlify.app/]
 💼 **LinkedIn:** [www.linkedin.com/in/syeda-nabiha-fatima-703649384] *(optional)*  
 
 ---
