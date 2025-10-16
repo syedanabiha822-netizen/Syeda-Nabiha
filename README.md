@@ -53,7 +53,9 @@ Currently learning and growing every day on my journey to become a **Full Stack 
 ## 💬 Let's Connect  
 
 📫 **Email:** syedanabiha822@gmail.com
-🌍 **Portfolio:** [https://nabihapersonalportfolio.netlify.app/]
+
+🌍 **Portfolio:** [https://nabihapersonalportfolio.netlify.app/]              
+
 💼 **LinkedIn:** [www.linkedin.com/in/syeda-nabiha-fatima-703649384] *(optional)*  
 
 ---
