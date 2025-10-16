@@ -1,4 +1,4 @@
-# Syeda-Nabiha
+
 # 👋 Hi, I'm **Syeda Nabiha**  
 
 🌟 Welcome to my coding world!  
@@ -33,7 +33,7 @@ Currently learning and growing every day on my journey to become a **Full Stack 
 ## 📂 Featured Work  
 
 🌐 **Portfolio Website:**  
-[👉 View Live on Netlify](https://your-portfolio-link.netlify.app)  
+[👉 View Live on Netlify](nabihapersonalportfolio.netlify.app)  
 
 🧠 **Projects:**  
 - 📝 Student Registration Form  
@@ -45,17 +45,16 @@ Currently learning and growing every day on my journey to become a **Full Stack 
 
 ## 📊 GitHub Stats  
 
-![Syeda Nabiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biyaKhan&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biyaKhan&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biyaKhan&theme=tokyonight)
+![Syeda Nabiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedaNabiha&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaNabiha&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyedaNabiha&theme=tokyonight)
 
----
 
 ## 💬 Let's Connect  
 
 📫 **Email:** syedanabiha.dev@gmail.com  
-🌍 **Portfolio:** [https://your-portfolio-link.netlify.app](https://your-portfolio-link.netlify.app)  
-💼 **LinkedIn:** [linkedin.com/in/syedanabiha](https://linkedin.com) *(optional)*  
+🌍 **Portfolio:** [https://your-portfolio-link.netlify.app](nabihapersonalportfolio.netlify.app)  
+💼 **LinkedIn:** [linkedin.com/in/syedanabiha](www.linkedin.com/in/syeda-nabiha-fatima-703649384) *(optional)*  
 
 ---
 
